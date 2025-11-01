@@ -1,5 +1,3 @@
-
-```gitignore
 # Environment files
 .env
 *.env
@@ -27,4 +25,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
