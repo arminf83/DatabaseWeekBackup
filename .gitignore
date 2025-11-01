@@ -1,0 +1,30 @@
+
+```gitignore
+# Environment files
+.env
+*.env
+
+# Backup directories
+/backups/
+/backup*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
